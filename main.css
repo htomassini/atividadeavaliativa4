@@ -6,7 +6,7 @@ body {
 ul {
     padding: 0%!important;
 }
-.menu-principal {
+menu-principal {
     width: 100%;
     background-color: #252323;
     height: 60px;
@@ -16,59 +16,59 @@ main {
     width: 980px;
     position: relative;
 }
-.logo {
+logo {
     float: left;
     padding: 9px;
     width: 70%;
 }
-.redessociais ul li {
+redessociais ul li {
     margin-left: 18px;
     display: inline-block;
     float: left;
     list-style: none;
 }
-.redessociais {
+redessociais {
     width: 25%;
     float: right;
 }
-.header2 {
+header2 {
 background-color: #ffffff;
 width: 980px;
 margin: 0 auto;
 padding: 16px;
 }
-.menu-urls {
+menu-urls {
     height: 80px;
     border-bottom: 3px solid #efefef;
 }
-.menu ul li {
+menu ul li {
     display: inline-block;
     color: #8b8b8b;
     margin-left: 15px;
     height: 50px;
 }
-.menu ul li:hover {
+menu ul li:hover {
     border-bottom: 3px solid #00bac6;
 }
-.menu ul li a:hover {
+menu ul li a:hover {
     color: #00bac6;
 }
-.menu ul li a {
+menu ul li a {
     color: #8b8b8b;
     text-decoration: none;
     font-size: 18px;
     text-transform: uppercase;
 }
-.menu {
+menu {
     width: 70%;
     float: left;
 }
-.busca {
+busca {
     text-align: center;
     width: 30%;
     float: right;
 }
-.busca input {
+busca input {
     background-image: url(../IMG/Searching.png) ;
     background-repeat: no-repeat;
     height: 36px;
@@ -78,7 +78,7 @@ padding: 16px;
     background-position: 100%;
     border: 1px solid #d6d6d6;
 }
-.col-100 {
+col-100 {
     width: 100%;
     float: left;
     position: relative;
@@ -86,7 +86,7 @@ padding: 16px;
 ul.slick-dots li.slick-active {
     background-color: #00bac6;
 }
-.slick-list {
+slick-list {
     width: 100%!important;
 }
 ;slick-initialized {
